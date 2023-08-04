@@ -1,3 +1,5 @@
 # blog-pic
-放图片的
+
+Image bed for my blog.
+
 proxy by https://ghproxy.com/
